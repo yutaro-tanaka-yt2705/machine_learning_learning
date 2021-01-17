@@ -2,13 +2,19 @@ This project was pulled from a Kaggle dataset, which was originally obtained fro
 I focused on using linear and logistic regression, especially because it was a relatively small, clean dataset. 
 
 Algorithms Used:
-- Linear Regression
-- Logistic Regression
-- Random Forest Regressor
-- SVM Regression
+- Regression
+  - Linear 
+  - Logistic 
+  - Support Vector Machine
+- Classifier
+  - Random Forest
 
 Results : 
-- 93% Accuracy Rate using logistic regression. 
+Accuracy Rate
+- 57% using Linear
+- 93% using Logistic
+- 58% using Support Vector Machine (Linear)
+- 90% using Random Forest
 
 
 ----
